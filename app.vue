@@ -1,5 +1,9 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <header-top />
+    <fp-content />
   </div>
 </template>
+
+<script setup lang="ts">
+</script>
